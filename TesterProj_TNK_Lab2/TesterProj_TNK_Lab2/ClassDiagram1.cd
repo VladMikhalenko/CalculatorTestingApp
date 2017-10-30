@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TesterProj_TNK_Lab2.Interfaces.AbstractWinAPIBinder" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEIEgKQAAQJAAgAkASAAAAIAQEAAAAAICAAEAAggACA=</HashCode>
+      <FileName>FormBinders\AbstractWinAPIBinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.FormBinders.CalculatorFormBinder" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAUAAAACAAAAAAAAAAAAAAAQAAAoAAAAAAAAAAA=</HashCode>
+      <FileName>FormBinders\CalculatorFormBinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.CalculatorFileParser" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>UABAAAAAAAACAAAAAAABAAACAAQIAAAAIABAAAEIAAI=</HashCode>
+      <FileName>CalculatorFileParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.CalculatorScript" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAACAAAAAAiAAAAAEAAQAAAggAAACAAAAAE=</HashCode>
+      <FileName>CalculatorScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.CalculatorScriptRuner" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAABkhIAAAAAEIAAAAAAAAACQCAAAAAAAgAAA=</HashCode>
+      <FileName>CalculatorScriptRuner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.FormManipulator" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormManipulator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptReport" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ScriptReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptInputs.AbstractScriptInput" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScriptInputs\AbstractScriptInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptButtonInput" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScriptInputs\ScriptButtonInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptInputs.ScriptCheckBoxInput" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAECAAABAAAAAA=</HashCode>
+      <FileName>ScriptInputs\ScriptCheckBoxInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptInputs.ScriptEditInput" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScriptInputs\ScriptEditInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TesterProj_TNK_Lab2.ScriptExpression" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAACAAAAAAAAAIAAAAAgAgAAAAA=</HashCode>
+      <FileName>ScriptInputs\ScriptExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TesterProj_TNK_Lab2.Interfaces.IScriptVisitor" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IScriptVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

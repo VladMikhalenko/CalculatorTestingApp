@@ -1,0 +1,26 @@
+#data
+formName:CALC
+formClass:Tjform
+button:TButton
+inputEdit:TEdit
+memoryEdit:TMemo
+checkBox:TCheckBox
+#expressions
+9*9================16677181699666569
+1.2*2=2.4
+1.2*2=*2=4.8
+2+2=4
+28-5=23
+2.0+5.5=7.5
+-1.6+0.6=-1
+5/2=2.5
+12*3=36
+5/0=error
+#input_test
+btn(1234567890.)
+btn(+-*/)
+btn(1+2=====)
+btn(4-5+9=)
+edit(2+2+2+2 some text)=TEdit
+edit(hello world)=TMemo
+chbx(true)=новая версия
